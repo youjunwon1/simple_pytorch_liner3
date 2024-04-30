@@ -1,6 +1,6 @@
 Without using an encoder model in PyTorch, 
 
-a text prediction (just using book text) 
+a text prediction (just using any text   no json ) 
 
 with only embeddings, 3 linear layers, and activation functions
 
